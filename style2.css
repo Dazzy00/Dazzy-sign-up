@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+div{
+    background-color: darksalmon ; 
+    width: 40%; 
+    height: auto; 
+    margin-left: 27%;
+    margin-top: 10%;
+    padding: 3%; 
+    border-radius: 10px;
+}
+h1{
+    font-family:sans-serif;
+    color: rgb(12, 94, 109); 
+    font-size: large; 
+    text-align: center;
+}
+input{
+    margin-bottom: 10px; 
+    margin-left: 25%; 
+    border-radius: 10px; 
+    border: none;
+    padding: 5px;
+}
+.signup{
+    margin-left: 25%;    
+    width: 70px; 
+    border-radius: 10px; 
+    border: none; 
+    cursor: pointer; 
+    padding: 5px;
+}
+.login{
+    margin-left: 25px;
+    width: 70px; 
+    border-radius: 10px; 
+    border: none; 
+    cursor: pointer; 
+    padding: 5px;
+}
